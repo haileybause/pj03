@@ -1,5 +1,5 @@
 # pj03
-Hailey Bause (811967640) \n
+Hailey Bause (811967640)
 Maja Culum ()
 
 Description:
